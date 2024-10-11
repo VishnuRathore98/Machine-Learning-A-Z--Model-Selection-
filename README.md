@@ -1,4 +1,4 @@
-## Machine Learning (Model Selection)
+## Machine Learning A-Z (Model Selection)
 
 This repository contains code and resources for the "Model Selection" of  Machine Learning.
 
@@ -40,4 +40,4 @@ from sklearn.metrics import accuracy_score
 data = pd.read_csv('data.csv')
 
 # Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(data.
+X_train, X_test, y_train, y_test = train_test_split(data)
